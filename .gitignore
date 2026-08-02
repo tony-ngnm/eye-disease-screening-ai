@@ -1,0 +1,26 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# --- Data & model artifacts (downloaded separately, see data/README.md & models/README.md) ---
+data/raw/
+data/processed/
+models/*.h5
+!models/README.md
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+cropped_image.png
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
+
+# --- Logs ---
+*.log
