@@ -10,15 +10,17 @@
   <img src="docs/assets/poster.png" alt="Project poster" width="850">
 </p>
 
+
+
+https://github.com/user-attachments/assets/d9598f3d-9092-4487-b585-406709d6b03a
+
+
+
 ## Overview
 
 This project was originally developed in **August 2023** as a high school science and engineering research project (Ho Chi Minh City Department of Education and Training — Science & Engineering Fair for High School Students, 2023–2024, Project code `21_1033_09`, Software Systems category).
 
 It pairs a **transfer-learning-based convolutional neural network** with a **clinically-grounded symptom questionnaire** to give users an at-home, preliminary screening suggestion for common eye conditions — aiming to lower the barrier for people who might otherwise delay seeking medical attention due to cost, distance, or simply not recognizing early warning signs.
-
-## Motivation
-
-According to the World Health Organization, roughly 2 billion people worldwide live with a vision-impairing condition, and an estimated 1 billion of those cases involve preventable or not-yet-addressed deterioration. In Vietnam specifically, an estimated 2 million people are affected by blindness or serious eye disease, a number compounded by recurring conjunctivitis (pink eye) outbreaks. Many people either underestimate early symptoms or lack easy, affordable access to specialist care. This project explores whether a lightweight, web-based AI tool can help close that gap.
 
 ## How It Works
 
