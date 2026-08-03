@@ -1,26 +1,16 @@
 # Recognizing Functional Signs in Ocular Diseases via Transfer Learning
 
-
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Status](https://img.shields.io/badge/Status-Archived%20Research%20Project-lightgrey)
-
-<p align="center">
-  <img src="docs/assets/poster.png" alt="Project poster" width="850">
-</p>
-
-
-
-https://github.com/user-attachments/assets/d9598f3d-9092-4487-b585-406709d6b03a
-
-
-
 ## Overview
 
 This project was originally developed in **August 2023** as a high school science and engineering research project (Ho Chi Minh City Department of Education and Training — Science & Engineering Fair for High School Students, 2023–2024, Project code `21_1033_09`, Software Systems category).
 
 It pairs a **transfer-learning-based convolutional neural network** with a **clinically-grounded symptom questionnaire** to give users an at-home, preliminary screening suggestion for common eye conditions — aiming to lower the barrier for people who might otherwise delay seeking medical attention due to cost, distance, or simply not recognizing early warning signs.
+
+<p align="center">
+  <img src="docs/assets/poster.png" alt="Project poster" width="850">
+</p>
+
+https://github.com/user-attachments/assets/d9598f3d-9092-4487-b585-406709d6b03a
 
 ## How It Works
 
